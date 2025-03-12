@@ -1,0 +1,10 @@
+name: nba-position-classifier
+title:
+username: 93q1q1-james0brainard
+account: 93q1q1-james0brainard
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13573921
+bundleId: 9499778
+url: https://93q1q1-james0brainard.shinyapps.io/nba-position-classifier/
+version: 1
